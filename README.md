@@ -29,7 +29,7 @@ A full-stack task management system with Vue.js frontend and Spring Boot backend
 
 1. **Clone repo:**
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/sreypich01/task-manager.git
    cd task-manager/backend
 2. **Create PostgreSQL database:**
    ```bash
@@ -38,7 +38,7 @@ A full-stack task management system with Vue.js frontend and Spring Boot backend
    ```bash
     spring.datasource.url=jdbc:postgresql://localhost:5432/task_manager
     spring.datasource.username=postgres
-    spring.datasource.password=yourpassword
+    spring.datasource.password=pich0608
 4. **Run Backend:**
  - Navigate to:
    ```bash
